@@ -1,10 +1,9 @@
 # Systembolaget Unusual Bottles
 
-In this notebook I will try to collect data for Systembolaget, "a government owned chain of liquor stores in Sweden, which is the only retail store allowed to sell alcoholic beverages".
+In this notebook I will try to collect data for Systembolaget, "a government owned chain of liquor stores in Sweden, which is the only retail store allowed to sell alcoholic beverages", then download bottles images and try to find some with unusual shapes. I use K-Means, DBSCAN and some manual techniques.
 
 Link to store: https://www.systembolaget.se/sok-dryck/?fullassortment=0
 
-I download bottles images and try to find some with unusual shapes. I use K-Means, DBSCAN and some manual techniques.
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/Amarchuk/systembolaget-unusual-bottles)
 
